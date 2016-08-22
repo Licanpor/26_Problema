@@ -1,0 +1,45 @@
+
+*{
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style-type: none;
+}
+.pd-top{
+	padding-top:5%;
+}
+.pd-t{
+	padding-top: 2%;
+}
+ul, .pd{
+	padding: 0;
+}
+mark{
+	background-color: gray;
+	color:white;
+}
+.txt-gray{
+	color: gray;
+}
+.bg{
+	background-color: #BDBDBD;
+	padding: 3%;
+	/*margin-top: 2%;*/
+}
+.mg-b{
+	margin:0% 0% 2% 0%;
+}
+.mg{
+	margin: 0;
+}
+@media screen and (max-width:768px) {
+	.cl{
+		clear: left;
+	}
+	.mg-l{
+		margin-left: 12%;
+	}
+}
